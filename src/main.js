@@ -10,7 +10,7 @@ const CLOCK_CONFIG = {
   
   timeTemplates: {
     minutes: {
-      0: 'EN PUNTO', 5: 'Y CINCO', 10: 'Y DIEZ', 15: 'Y CUARTO',
+      0: '', 5: 'Y CINCO', 10: 'Y DIEZ', 15: 'Y CUARTO',
       20: 'Y VEINTE', 25: 'Y VEINTICINCO', 30: 'Y MEDIA',
       35: 'MENOS VEINTICINCO', 40: 'MENOS VEINTE', 45: 'MENOS CUARTO',
       50: 'MENOS DIEZ', 55: 'MENOS CINCO'
